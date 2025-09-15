@@ -23,6 +23,8 @@ Analyzes a 2-year weekly marketing dataset to quantify how paid media, email/SMS
 <img width="1037" height="547" alt="image" src="https://github.com/user-attachments/assets/c2c4be56-6116-461c-ad62-83c2c0e9b508" />
 <img width="1038" height="374" alt="download" src="https://github.com/user-attachments/assets/a3e5b09d-7ca3-4148-8e62-aab9fba019af" />
 <img width="667" height="374" alt="download (1)" src="https://github.com/user-attachments/assets/36ae62e3-2013-4a73-b90d-112654014bd4" />
+<img width="703" height="547" alt="image" src="https://github.com/user-attachments/assets/dac34d34-71bc-4b8d-bcd1-4824b0b7ab92" />
+
 
 
 
